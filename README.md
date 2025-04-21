@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DivyanshuSinha136
+- 👋 Hi, I’m Divyanshu Sinha
 - 👀 I’m interested in making AI, webapps, games, etc.
 - 🌱 I’m currently learning in School
 - 📫 To reach me divyanshu.sinha136@gmail.com 
