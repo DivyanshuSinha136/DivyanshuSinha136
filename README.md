@@ -1,5 +1,3 @@
-# Divyanshu's Portfolio
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Divyanshu**, a passionate programmer, AI developer, and tech enthusiast. I specialize in creating innovative solutions ranging from programming languages to operating systems, web apps, and advanced AI. I'm the founder of **CodePhantom Labs** and the creator of several unique projects, including my own programming language **KingCobra**.
@@ -42,7 +40,7 @@ An interactive GUI-based educational app for Physics students:
 
 - 🧠 Created **KingCobra**, a functional programming language from scratch
 - 🛡️ Designed high-security systems including OTP, AES encryption, virus detection
-- 🏛️ Founded **CodePhantom Labs**
+- 🏛️ Founded **World Of Programmin And Technology**
 - 🤖 Built advanced AI that learns from the web and integrates with video chat
 - 💬 Developed a WhatsApp-style real-time chat app with full encryption
 - 🎮 Designed 3D truck and train simulation engines
