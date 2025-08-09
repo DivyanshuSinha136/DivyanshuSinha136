@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyanshu
 
-💻 **Python Developer | AI & OS Engineer | Open Source Contributor**  
+💻 **Python Developer | AI & OS Engineer | Open Source Contributor | Ethical Hacker**  
 🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **KingCobra Programming Language**, and **Peacock OS**  
 📍 Based in India  
 
@@ -11,6 +11,7 @@ I’m a passionate **developer, innovator, and problem solver** who loves buildi
 I started my journey with Python and quickly expanded into **C, C++, JavaScript, Assembly**, and **system programming**.  
 
 Some highlights of my journey:
+- 🏆 Earned the **[Quickdraw Achievement](https://github.com/users/DivyanshuSinha136/achievements/quickdraw)** on GitHub — awarded for lightning-fast responses in public repositories.
 - 🧠 Developed **AI systems** from scratch (rule-based AI, Python-based AI backends, and even Assembly-based AI)
 - 📦 Published Python packages on **PyPI** (including `pythonaibrain`, an AI backend with self-learning capabilities)
 - 🖥 Built my own **programming language** — *KingCobra* — with custom syntax, compiler, and `.kb` extension
@@ -81,7 +82,7 @@ A learning tool for **Class 12 Physics** (Electric Charges and Fields) with:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://your-portfolio-link.com)  
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-3776AB)](https://pypi.org/user/DivyanshuSinha/)  
-[![Email](https://img.shields.io/badge/Email-divyanshu.sinha136@gmail.com-red)](mailto:divyanshu.sinha136@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-divyanshu@example.com-red)](mailto:divyanshu@example.com)  
 
 ---
 
