@@ -71,9 +71,9 @@ A learning tool for **Class 12 Physics** (Electric Charges and Fields) with:
 
 ## 📊 GitHub Stats
 
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyanshuSinha&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSinha&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuSinha&theme=radical)
+![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyanshuSinha136&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSinha136&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuSinha136&theme=radical)
 
 ---
 
@@ -81,7 +81,7 @@ A learning tool for **Class 12 Physics** (Electric Charges and Fields) with:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://your-portfolio-link.com)  
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-3776AB)](https://pypi.org/user/DivyanshuSinha/)  
-[![Email](https://img.shields.io/badge/Email-divyanshu@example.com-red)](mailto:divyanshu@example.com)  
+[![Email](https://img.shields.io/badge/Email-divyanshu.sinha136@gmail.com-red)](mailto:divyanshu.sinha136@gmail.com)  
 
 ---
 
