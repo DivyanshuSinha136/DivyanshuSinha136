@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyanshu
 
-💻 **Python Developer | AI & OS Engineer | Open Source Contributor | Ethical Hacker**  
+💻 **[Python Developer](https://discuss.python.org/u/divyanshusinha136/summary) | AI & OS Engineer | Open Source Contributor | Ethical Hacker**  
 🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **KingCobra Programming Language**, and **Peacock OS**  
 📍 Based in India  
 
@@ -80,7 +80,7 @@ A learning tool for **Class 12 Physics** (Electric Charges and Fields) with:
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://discuss.python.org/u/divyanshusinha136/summary)  
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-3776AB)](https://pypi.org/user/DivyanshuSinha/)  
 [![Email](https://img.shields.io/badge/Email-divyanshu@example.com-red)](mailto:divyanshu@example.com)  
 
