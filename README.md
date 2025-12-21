@@ -94,10 +94,8 @@ Experimental lightweight operating system focused on performance, security, and 
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://discuss.python.org/u/divyanshusinha136/summary)
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-3776AB)](https://pypi.org/user/DivyanshuSinha/)
-[![Email](https://img.shields.io/badge/Email-divyanshu@example.com-red)](mailto:divyanshu@example.com)
+[![Email](https://img.shields.io/badge/Email-divyanshu.sinah631@gmail.com-red)](mailto:divyanshu.sinha631@gmail.com)
 
 ---
 
 ⭐ *"Dream big, code bigger — the only limit is your imagination."*
-
-Do you want me to do that next?
