@@ -78,7 +78,7 @@ Experimental lightweight operating system focused on performance, security, and 
 * **GDG on Campus Member** → Hackathons, labs, workshops
 * **NVIDIA Developer Program** → AI model testing & GPU-backed inference
 
-> These memberships give me access to industry-grade tools for AI, LLM experimentation, and cloud deployments — without needing paid infrastructure.
+> These memberships give me access to industry-grade tools for AI, LLM experimentation, and cloud deployments.
 
 ---
 
