@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyanshu
 
 💻 **[Python Developer](https://discuss.python.org/u/divyanshusinha136/summary) | AI & OS Engineer | Open Source Contributor**
-🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE Programming Language](https://github.com/DivyanshuSinha136/CDNEE)**, and **Peacock OS**
+🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE Programming Language](https://divyanshusinha136.github.io/CDNEE-Docs/)**, and **Peacock OS**
 📍 Based in India
 
 ---
@@ -17,7 +17,7 @@ Started with Python and expanded into **C, C++, JavaScript, Assembly**, and **sy
 * 🤖 Built **AI systems from scratch** (rule-based, Python AI backends, Assembly-based AI)
 * 📦 Published Python packages on **PyPI** (`pythonaibrain`, `pythonaibrain-client`)
 * 🖥 Created **KingCobra Programming Language** with custom syntax and `.kb` files
-* 🖥 Created **CDNEE Programming Language** - A high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers.
+* 🖥 Created **[CDNEE Programming Language](https://divyanshusinha136.github.io/CDNEE-Docs/)** - A high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers.
 * 🛠 Developed **Peacock OS**, a lightweight experimental operating system
 * 🐅 Created **TigerASM**, a custom assembler for learning and system-level programming
 * 🔐 Skilled in **ethical hacking**, **security software**, and **encryption systems**
@@ -65,7 +65,7 @@ Custom assembler for learning low-level programming, system design, and assembly
 
 Python-inspired language with custom syntax, `.kc` file support, and plans for full IDE integration.
 
-### 🔹 [CDNEE Programming Language](https://github.com/DivyanshuSinha136/CDNEE)
+### 🔹 [CDNEE Programming Language](https://divyanshusinha136.github.io/CDNEE-Docs/)
 
 CDNEE (Control Dynamic Native Execution Engine) is a high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers. It sits at a unique intersection: readable, structured syntax on the surface, bare-metal native performance underneath.
 
