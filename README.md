@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyanshu
 
 💻 **[Python Developer](https://discuss.python.org/u/divyanshusinha136/summary) | AI & OS Engineer | Open Source Contributor | Ethical Hacker**
-🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE (Control Dynamic Native Execution Engine) Programming Language](https://github.com/DivyanshuSinha136/CDNEE)**, and **Peacock OS**
+🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE Programming Language](https://github.com/DivyanshuSinha136/CDNEE)**, and **Peacock OS**
 📍 Based in India
 
 ---
