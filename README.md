@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyanshu
 
 💻 **[Python Developer](https://discuss.python.org/u/divyanshusinha136/summary) | AI & OS Engineer | Open Source Contributor | Ethical Hacker**
-🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, and **Peacock OS**
+🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE (Control Dynamic Native Execution Engine) Programming Language](https://github.com/DivyanshuSinha136/CDNEE)**, and **Peacock OS**
 📍 Based in India
 
 ---
@@ -64,6 +64,12 @@ Custom assembler for learning low-level programming, system design, and assembly
 
 Python-inspired language with custom syntax, `.kc` file support, and plans for full IDE integration.
 
+### 🔹 CDNEE Programming Language
+
+CDNEE (Control Dynamic Native Execution Engine) is a high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers. It sits at a unique intersection: readable, structured syntax on the surface, bare-metal native performance underneath.
+
+Programs are written in .cdnee source files and run through the CDNEE runtime, which compiles and executes x86-64 machine code on the fly using a built-in JIT engine backed by NASM. You can drop into raw assembly, benchmark it, patch it at runtime, inspect its disassembly, snapshot its memory, and call foreign libraries — all from a single coherent source file.
+
 ### 🔹 Peacock OS
 
 Experimental lightweight operating system focused on performance, security, and system programming learning.
@@ -92,7 +98,6 @@ Experimental lightweight operating system focused on performance, security, and 
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://discuss.python.org/u/divyanshusinha136/summary)
 [![PyPI](https://img.shields.io/badge/PyPI-Profile-3776AB)](https://pypi.org/user/DivyanshuSinha/)
 [![Email](https://img.shields.io/badge/Email-divyanshu.sinah631@gmail.com-red)](mailto:divyanshu.sinha631@gmail.com)
 
