@@ -17,7 +17,7 @@ Started with Python and expanded into **C, C++, JavaScript, Assembly**, and **sy
 * 🤖 Built **AI systems from scratch** (rule-based, Python AI backends, Assembly-based AI)
 * 📦 Published Python packages on **PyPI** (`pythonaibrain`, `pythonaibrain-client`)
 * 🖥 Created **KingCobra Programming Language** with custom syntax and `.kb` files
-* 🖥 Created **CDNEE Programming Language**: A high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers.
+* 🖥 Created **CDNEE Programming Language** - A high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers.
 * 🛠 Developed **Peacock OS**, a lightweight experimental operating system
 * 🐅 Created **TigerASM**, a custom assembler for learning and system-level programming
 * 🔐 Skilled in **ethical hacking**, **security software**, and **encryption systems**
