@@ -65,7 +65,7 @@ Custom assembler for learning low-level programming, system design, and assembly
 
 Python-inspired language with custom syntax, `.kc` file support, and plans for full IDE integration.
 
-### 🔹 CDNEE Programming Language
+### 🔹 [CDNEE Programming Language](https://github.com/DivyanshuSinha136/CDNEE)
 
 CDNEE (Control Dynamic Native Execution Engine) is a high-level assembly-oriented programming language designed for direct access to native machine-code execution without the complexity of traditional assemblers or low-level compilers. It sits at a unique intersection: readable, structured syntax on the surface, bare-metal native performance underneath.
 
