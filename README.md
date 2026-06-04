@@ -72,7 +72,7 @@ CDNEE (Control Dynamic Native Execution Engine) is a high-level assembly-oriente
 Programs are written in .cdnee source files and run through the CDNEE runtime, which compiles and executes x86-64 machine code on the fly using a built-in JIT engine backed by NASM. You can drop into raw assembly, benchmark it, patch it at runtime, inspect its disassembly, snapshot its memory, and call foreign libraries — all from a single coherent source file.
 
 > **Official Docs:** [https://divyanshusinha136.github.io/CDNEE-Docs/](https://divyanshusinha136.github.io/CDNEE-Docs/)
-> **Official Releases:** [github.com/DivyanshuSinha136/CDNEE/releases](github.com/DivyanshuSinha136/CDNEE/releases)
+> **Official Releases:** [https://github.com/DivyanshuSinha136/CDNEE/releases](https://github.com/DivyanshuSinha136/CDNEE/releases)
 
 ### 🔹 Peacock OS
 
