@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyanshu
 
-💻 **[Python Developer](https://discuss.python.org/u/divyanshusinha136/summary) | AI & OS Engineer | Open Source Contributor**
-🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE Programming Language](https://divyanshusinha136.github.io/CDNEE-Docs/)**, and **Peacock OS**
+💻 **Python Developer | AI & OS Engineer | Open Source Contributor**
+🚀 Creator of **[pythonaibrain](https://pypi.org/project/pythonaibrain/)**, **[pythonaibrain-client](https://pypi.org/project/pythonaibrain-client/)**, **[TigerASM](https://github.com/DivyanshuSinha136/TigerASM)**, **KingCobra Programming Language**, **[CDNEE Programming Language](https://divyanshusinha136.github.io/CDNEE-Docs/)**, **[Aetherix](https://github.com/DivyanshuSinha136/Aetherix)** and **Peacock OS**
 📍 Based in India
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I’m a passionate **developer, innovator, and problem solver** who loves building things from scratch — from **AI systems** to **operating systems**.
-Started with Python and expanded into **C, C++, JavaScript, Assembly**, and **system programming**.
+Started with Python and expanded into **C, C++, JavaScript, Assembly, Bare-metal programming from the first principle (x86 Machine code)**, and **system programming**.
 
 **Highlights:**
 
