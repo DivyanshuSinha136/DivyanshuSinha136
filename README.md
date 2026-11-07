@@ -10,7 +10,7 @@
 [![PSF Member](https://img.shields.io/badge/Python%20Software%20Foundation-Member-34d399?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)](https://www.python.org/psf/)
 [![Email](https://img.shields.io/badge/Email-divyanshu.sinha631%40gmail.com-34d399?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:divyanshu.sinha631@gmail.com)
 
-**[About](#about)** &nbsp;·&nbsp; **[KingCobra](#kingcobra)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[Tech stack](#tech-stack)** &nbsp;·&nbsp; **[GitHub analytics](#github-analytics)** &nbsp;·&nbsp; **[Contact](#contact)**
+**[About](#about)** &nbsp;·&nbsp; **[Languages](#languages)** &nbsp;·&nbsp; **[KingCobra](#kingcobra)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[External](#external)** &nbsp;·&nbsp; **[Tech stack](#tech-stack)** &nbsp;·&nbsp; **[GitHub analytics](#github-analytics)** &nbsp;·&nbsp; **[Contact](#contact)**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <h2 id="about"><img src="./assets/icons/user.svg" width="26" align="absmiddle" alt=""> About</h2>
 
-I build software from first principles: **AI systems, programming languages, assemblers and operating systems**. I started with Python and moved down the stack to C, C++, Assembly and bare-metal x86 machine code. I also ship secure web applications and security tooling.
+I build software from first principles: **AI systems, programming languages, assemblers and operating systems**. I started with Python and moved down the stack to C, C++, Rust, Assembly and bare-metal machine code. I also ship secure web applications and security tooling.
 
 |  |  |
 |:--|:--|
@@ -38,6 +38,23 @@ I build software from first principles: **AI systems, programming languages, ass
 - Developed games and simulation engines (3D assets, train simulations) and an interactive Class 12 Physics GUI.
 - Skilled in ethical hacking, security software and encryption systems.
 - Built secure web applications with OTP verification, encryption and real-time features.
+
+<h2 id="languages"><img src="./assets/icons/code.svg" width="26" align="absmiddle" alt=""> Programming languages I know</h2>
+
+<div align="center">
+<img src="./assets/languages.svg" alt="Python, Lua, Go, JavaScript, Rust, C++, C, NASM for AMD, ARM, System V, ARMhf and RISC-V, bare machine code and AML" width="100%">
+</div>
+
+| Language | Notes |
+|:--|:--|
+| **Python** | Primary language, used for AI backends, web applications and tooling |
+| **Lua** · **Go** · **JavaScript** · **Rust** | Scripting, services, web and systems work |
+| **C++** · **C** | Systems programming, interpreters and runtimes (KingCobra's core is C11) |
+| **NASM** | AMD (x86-64), ARM, System V, ARMhf and RISC-V |
+| **Bare machine code** | Hand-written opcodes, for example `0x0F 0x31 0xC3` |
+| **AML** | ACPI Machine Language |
+
+<img src="./assets/divider.svg" width="100%" alt="">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -128,6 +145,7 @@ make test                          # run every example end to end
 | [pythonaibrain](#pythonaibrain) | AI backend |
 | [pythonaibrain-client](#pythonaibrain-client) | Client library |
 | [Aetherix](#aetherix) | Open-source project |
+| [Nexoria](#additional-software) · [pythonaibrain-nlp](#additional-software) · [pythonaibrain-warden](#additional-software) | Additional software |
 
 <h3 id="pythonaibrain"><a href="https://pypi.org/project/pythonaibrain/">pythonaibrain</a></h3>
 
@@ -139,7 +157,7 @@ Client library to easily interact with `pythonaibrain` servers and APIs.
 
 <h3 id="tigerasm"><a href="https://github.com/DivyanshuSinha136/TigerASM">TigerASM</a></h3>
 
-Custom assembler for learning low-level programming, system design, and assembly code execution.
+Custom assembler for learning low-level programming, system design, and assembly code execution. TigerASM is a high-performance runtime assembler library written in Rust with Python bindings (PyO3), so you can execute dynamic assembly instructions straight from Python on x86-64 and ARM64.
 
 <h3 id="kingcobra-project"><a href="https://github.com/DivyanshuSinha136/KingCobra">KingCobra Programming Language</a></h3>
 
@@ -162,19 +180,46 @@ Experimental lightweight operating system focused on performance, security, and 
 
 Open-source project by me. See the [repository](https://github.com/DivyanshuSinha136/Aetherix) for details.
 
+<h3 id="additional-software">Additional software</h3>
+
+| Project | Repository |
+|:--|:--|
+| **Nexoria** | [DivyanshuSinha136/Nexoria](https://github.com/DivyanshuSinha136/Nexoria/) |
+| **pythonaibrain-nlp** | [DivyanshuSinha136/pythonaibrain-nlp](https://github.com/DivyanshuSinha136/pythonaibrain-nlp) |
+| **pythonaibrain-warden** | [DivyanshuSinha136/pythonaibrain-warden](https://github.com/DivyanshuSinha136/pythonaibrain-warden) |
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<h2 id="external"><img src="./assets/icons/globe.svg" width="26" align="absmiddle" alt=""> External</h2>
+
+<h3>PyPI download statistics</h3>
+
+[![pythonaibrain downloads](https://img.shields.io/pepy/dt/pythonaibrain?style=flat-square&label=pythonaibrain%20downloads&color=34d399&labelColor=0d1117)](https://pepy.tech/projects/pythonaibrain?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=weekly&viewType=line&versions=Total%2C1.*)
+[![pythonaibrain-client downloads](https://img.shields.io/pepy/dt/pythonaibrain-client?style=flat-square&label=pythonaibrain-client%20downloads&color=34d399&labelColor=0d1117)](https://pepy.tech/projects/pythonaibrain-client)
+
+Weekly download trend for `pythonaibrain` on pepy.tech, with CI downloads included: [view the live chart](https://pepy.tech/projects/pythonaibrain?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=weekly&viewType=line&versions=Total%2C1.*).
+
+<h3>Featured</h3>
+
+| Source | Coverage |
+|:--|:--|
+| **Google AI Overview** | For the search "best runtime assembler in python", the AI Overview lists **TigerASM** first, as its pick for writing raw assembly strings in Python and running them at native speed, ahead of Copapy and PeachPy. |
+| **[Q2BSTUDIO blog](https://www.q2bstudio.com/nuestro-blog/14789/cliente-de-chat-xor-cifrado-en-python-con-pythonaibrain-client-1-0-4)** (Spanish) | Article on `pythonaibrain-client` 1.0.4, an XOR-encrypted terminal chat client for `pythonaibrain` with multi-client support, private messages, emoji reactions and optional GUI integration. |
+| **[DEV Community](https://dev.to/divyanshusinha136)** | Launch write-up for TigerASM. |
+
 <img src="./assets/divider.svg" width="100%" alt="">
 
 <h2 id="tech-stack"><img src="./assets/icons/layers.svg" width="26" align="absmiddle" alt=""> Tech stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,lua,go,flask,sqlite,firebase,git,linux,vscode&theme=dark&perline=14" alt="Python, C, C++, JavaScript, HTML, CSS, Lua, Go, Flask, SQLite, Firebase, Git, Linux, VS Code">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,lua,go,rust,flask,sqlite,firebase,git,linux,vscode&theme=dark&perline=14" alt="Python, C, C++, JavaScript, HTML, CSS, Lua, Go, Flask, SQLite, Firebase, Git, Linux, VS Code">
 
 </div>
 
 | Layer | Technologies |
 |:--|:--|
-| **Languages** | Python · C · C++ · JavaScript · HTML · CSS · Assembly (x86 machine code) · Lua · Go |
+| **Languages** | Python · Lua · Go · JavaScript · Rust · C++ · C · HTML · CSS · NASM (AMD, ARM, System V, ARMhf, RISC-V) · bare machine code · AML |
 | **Frameworks and tools** | Flask · CustomTkinter · Socket.IO · SQLite · Firebase · MinGW-w64 · Turbo C++ |
 | **Domains** | AI and NLP · operating systems and systems programming · language and assembler design · game and simulation engines · web applications · security software and ethical hacking |
 
