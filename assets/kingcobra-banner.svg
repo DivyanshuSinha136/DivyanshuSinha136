@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="KingCobra, a native general-purpose systems programming language">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07130f"/><stop offset="1" stop-color="#0b1f1a"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<pattern id="hex" width="56" height="48" patternUnits="userSpaceOnUse"><path d="M14 0l14 8v16l-14 8-14-8V8zM42 24l14 8v16M42 24l-14 8v16" fill="none" stroke="#34d399" stroke-opacity="0.07"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="260" rx="14" fill="url(#hex)"/>
+<text x="40" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="60" font-weight="800" fill="#f8fafc">King<tspan fill="#34d399">Cobra</tspan></text>
+<text x="42" y="132" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" fill="#cbd5e1">A native, general-purpose systems programming language</text>
+<text x="42" y="158" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#64748b">Scripting-language ergonomics. Systems-language control.</text>
+<g transform="translate(40,176)"><rect width="82" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="41.0" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">v1.0.0</text></g><g transform="translate(130,176)"><rect width="55" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="27.5" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">MIT</text></g><g transform="translate(200,176)"><rect width="100" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="50.0" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">C11 core</text></g><g transform="translate(310,176)"><rect width="163" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="81.5" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">Linux · Windows</text></g>
+<g transform="translate(940,40)">
+<polygon points="90,0 168,45 168,135 90,180 12,135 12,45" fill="url(#ac)" fill-opacity="0.16" stroke="#34d399" stroke-width="2"/>
+<polygon points="90,22 148,56 148,124 90,158 32,124 32,56" fill="none" stroke="#34d399" stroke-opacity="0.35"/>
+<text x="90" y="108" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="800" fill="#34d399">KC</text>
+</g>
+</svg>

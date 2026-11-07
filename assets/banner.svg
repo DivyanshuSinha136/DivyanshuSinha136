@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Divyanshu Sinha, systems and language engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0c2a28"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<radialGradient id="glow" cx="0.8" cy="0.2" r="0.6"><stop offset="0" stop-color="#34d399" stop-opacity="0.25"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+<rect width="1200" height="320" rx="14" fill="url(#glow)"/>
+<rect x="40" y="52" width="4" height="30" rx="2" fill="url(#ac)"/>
+<text x="56" y="74" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" letter-spacing="4" fill="#94a3b8">GITHUB PROFILE</text>
+<text x="40" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700" fill="#f8fafc">Divyanshu Sinha</text>
+<text x="40" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#34d399">Systems &amp; Programming-Language Engineer</text>
+<text x="40" y="218" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#94a3b8">AI  ·  Operating systems  ·  Compilers  ·  Open source</text>
+<g transform="translate(40,238)"><rect width="84" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="42.0" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">Python</text></g><g transform="translate(150,238)"><rect width="93" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="46.5" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">C / C++</text></g><g transform="translate(276,238)"><rect width="102" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="51.0" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">Assembly</text></g><g transform="translate(398,238)"><rect width="93" height="32" rx="16" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.5"/><text x="46.5" y="21" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a7f3d0">Systems</text></g>
+<g transform="translate(760,48)">
+<rect width="396" height="224" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h372a12 12 0 0 1 12 12v26H0z" fill="#161b22"/>
+<circle cx="22" cy="19" r="5" fill="#ff5f56"/><circle cx="40" cy="19" r="5" fill="#ffbd2e"/><circle cx="58" cy="19" r="5" fill="#27c93f"/>
+<text x="198" y="23" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">hello.kc</text>
+<text x="24" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#ff7b72">fn <tspan fill="#d2a8ff">main</tspan><tspan fill="#c9d1d9">() {</tspan></text>
+<text x="48" y="108" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#c9d1d9"><tspan fill="#79c0ff">print</tspan>(<tspan fill="#a5d6ff">"Hello, World"</tspan>);</text>
+<text x="48" y="138" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#8b949e">// native, explicit, readable</text>
+<text x="24" y="168" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#c9d1d9">}</text>
+<text x="24" y="204" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#34d399">$ kingcobra run hello.kc</text>
+<rect x="250" y="190" width="9" height="18" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
